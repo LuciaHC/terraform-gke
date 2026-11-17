@@ -1,7 +1,7 @@
 
 variable "gcp-project" {
   description = "GCP project"
-  default     = "icai2025"
+  default     = "nodal-vigil-513107-g1"
 }
 
 variable "gcp-network" {
@@ -38,5 +38,5 @@ variable "gcp-node-size" {
 variable "gcp-bucket-name" {
   description = "Bucket Name"
   type        = string
-  default     = "jherrera-bucket"
+  default     = "lherraiz-1234554212-bucket"
 }
